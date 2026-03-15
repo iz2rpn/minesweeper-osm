@@ -33,3 +33,5 @@ Output executable:
 ## Runtime folders
 - `assets/` are loaded from the app bundle.
 - `cache/` and `logs/` are created in the folder where you launch the app.
+
+All characters and events in this work are fictional. Any resemblance to real persons or events is purely coincidental.
